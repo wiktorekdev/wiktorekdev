@@ -25,7 +25,7 @@ I build small products with a clear job. TypeScript by default, Rust when deskto
 
 ## Projects
 
-### <img src="assets/geohelper.png" width="28" height="28" alt="" align="top" /> [GeoHelper](https://github.com/wiktorekdev/geohelper)
+### <img src="assets/geohelper.png" width="32" height="32" alt="" align="top" /> [GeoHelper](https://github.com/wiktorekdev/geohelper)
 Steam GeoGuessr companion. Live coords, place details, map preview, themes, edit mode. CDP, no injection.
 
 [![release](https://img.shields.io/github/v/release/wiktorekdev/geohelper?style=flat&color=6366f1)](https://github.com/wiktorekdev/geohelper/releases/latest)
@@ -33,9 +33,9 @@ Steam GeoGuessr companion. Live coords, place details, map preview, themes, edit
 [![stars](https://img.shields.io/github/stars/wiktorekdev/geohelper?style=flat)](https://github.com/wiktorekdev/geohelper)
 [![license](https://img.shields.io/github/license/wiktorekdev/geohelper?style=flat)](https://github.com/wiktorekdev/geohelper/blob/main/LICENSE)
 
-[Site](https://geohelperapp.vercel.app/) · [Download](https://github.com/wiktorekdev/geohelper/releases/latest) · [Repo](https://github.com/wiktorekdev/geohelper)
+[Site](https://geohelperapp.vercel.app/) · [Repo](https://github.com/wiktorekdev/geohelper) · [Download](https://github.com/wiktorekdev/geohelper/releases/latest)
 
-### <img src="assets/typecast.svg" width="28" height="28" alt="" align="top" /> [Typecast](https://github.com/wiktorekdev/typecast)
+### <img src="assets/typecast.svg" width="40" height="40" alt="" align="top" /> [Typecast](https://github.com/wiktorekdev/typecast)
 Image to binary, ASCII, and character art. Zoom stage, color modes, HD-8K export. 100% local browser.
 
 [![live](https://img.shields.io/badge/live-typecast2.vercel.app-111?style=flat&logo=vercel&logoColor=white)](https://typecast2.vercel.app)
