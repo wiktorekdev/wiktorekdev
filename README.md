@@ -11,7 +11,6 @@ I build small products with a clear job. TypeScript by default, Rust when deskto
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/wiktorekdev?style=flat&logo=github&label=follow)](https://github.com/wiktorekdev)
-[![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwiktorekdev&query=%24.public_repos&label=public%20repos&style=flat&color=0969da)](https://github.com/wiktorekdev?tab=repositories)
 [![profile views](https://komarev.com/ghpvc/?username=wiktorekdev&style=flat&label=profile%20views&color=0e75b6)](https://github.com/wiktorekdev)
 
 <br/>
@@ -29,18 +28,7 @@ I build small products with a clear job. TypeScript by default, Rust when deskto
 
 ## Projects
 
-<table>
-  <tr>
-    <td width="48" valign="middle">
-      <a href="https://github.com/wiktorekdev/geohelper">
-        <img src="assets/geohelper.png" width="40" height="40" alt="GeoHelper" />
-      </a>
-    </td>
-    <td valign="middle">
-      <h3 style="margin:0"><a href="https://github.com/wiktorekdev/geohelper">GeoHelper</a></h3>
-    </td>
-  </tr>
-</table>
+### <img src="assets/geohelper.png" width="36" height="36" alt="" align="absmiddle" />&nbsp;[GeoHelper](https://github.com/wiktorekdev/geohelper)
 
 Steam GeoGuessr companion. Live coords, place details, map preview, themes, edit mode. CDP, no injection.
 
@@ -51,18 +39,7 @@ Steam GeoGuessr companion. Live coords, place details, map preview, themes, edit
 
 [Site](https://geohelperapp.vercel.app/) · [Repo](https://github.com/wiktorekdev/geohelper) · [Download](https://github.com/wiktorekdev/geohelper/releases/latest)
 
-<table>
-  <tr>
-    <td width="48" valign="middle">
-      <a href="https://github.com/wiktorekdev/typecast">
-        <img src="assets/typecast.svg" width="40" height="40" alt="Typecast" />
-      </a>
-    </td>
-    <td valign="middle">
-      <h3 style="margin:0"><a href="https://github.com/wiktorekdev/typecast">Typecast</a></h3>
-    </td>
-  </tr>
-</table>
+### <img src="assets/typecast.svg" width="36" height="36" alt="" align="absmiddle" />&nbsp;[Typecast](https://github.com/wiktorekdev/typecast)
 
 Image to binary, ASCII, and character art. Zoom stage, color modes, HD-8K export. 100% local browser.
 
