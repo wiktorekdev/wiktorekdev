@@ -40,8 +40,8 @@ Tauri app · CDP (no injection) · custom themes · edit mode
 ### [Typecast](https://github.com/wiktorekdev/typecast)
 **Image → binary / ASCII / character art**
 
-Zoom stage, color modes, HD–8K export, i18n.  
-100% local browser — nothing uploaded.
+Zoom stage, color modes, HD-8K export, i18n.  
+100% local browser. Nothing uploaded.
 
 [![Live](https://img.shields.io/badge/live-typecast2.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://typecast2.vercel.app)
 [![Stars](https://img.shields.io/github/stars/wiktorekdev/typecast?style=flat-square)](https://github.com/wiktorekdev/typecast/stargazers)
@@ -68,7 +68,7 @@ Bun · Vercel · GitHub Actions
 
 - Prefer **local / private-by-default** where it matters  
 - Practice tools stay honest about ToS (see GeoHelper disclaimer)  
-- Building in public when the repo is ready — not every experiment is open
+- Building in public when the repo is ready. Not every experiment is open.
 
 ---
 
