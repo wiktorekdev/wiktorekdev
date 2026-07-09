@@ -9,10 +9,7 @@
 I build small products with a clear job. TypeScript by default, Rust when desktop needs it.
 
 [![follow](https://img.shields.io/github/followers/wiktorekdev?style=flat&logo=github&label=follow)](https://github.com/wiktorekdev)
-[![following](https://img.shields.io/github/following/wiktorekdev?style=flat&logo=github&label=following)](https://github.com/wiktorekdev?tab=following)
 [![profile views](https://komarev.com/ghpvc/?username=wiktorekdev&style=flat&label=profile%20views&color=0e75b6)](https://github.com/wiktorekdev)
-[![stars](https://img.shields.io/github/stars/wiktorekdev/geohelper?style=flat&logo=github&label=geohelper%20stars)](https://github.com/wiktorekdev/geohelper)
-[![typecast stars](https://img.shields.io/github/stars/wiktorekdev/typecast?style=flat&logo=github&label=typecast%20stars)](https://github.com/wiktorekdev/typecast)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
