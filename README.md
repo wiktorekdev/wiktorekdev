@@ -10,6 +10,7 @@ I build small products with a clear job. TypeScript by default, Rust when deskto
 
 [![follow](https://img.shields.io/github/followers/wiktorekdev?style=flat&logo=github&label=follow)](https://github.com/wiktorekdev)
 [![profile views](https://komarev.com/ghpvc/?username=wiktorekdev&style=flat&label=profile%20views&color=0e75b6)](https://github.com/wiktorekdev)
+[![last commit](https://img.shields.io/github/last-commit/wiktorekdev/geohelper?style=flat&label=last%20commit&color=blueviolet)](https://github.com/wiktorekdev)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
@@ -17,6 +18,7 @@ I build small products with a clear job. TypeScript by default, Rust when deskto
 [![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white)](https://tauri.app/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Bun](https://img.shields.io/badge/Bun-000?style=flat&logo=bun&logoColor=white)](https://bun.sh/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 </div>
 
