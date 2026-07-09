@@ -4,7 +4,7 @@
 
 # wiktorekdev
 
-**desktop tools · browser apps · local-first**
+**desktop tools · browser apps · local-first · cli**
 
 I build small products with a clear job. TypeScript by default, Rust when desktop needs it.
 
@@ -46,6 +46,20 @@ Image to binary, ASCII, and character art. Zoom stage, color modes, HD-8K export
 [![license](https://img.shields.io/github/license/wiktorekdev/typecast?style=flat)](https://github.com/wiktorekdev/typecast/blob/main/LICENSE)
 
 [Site](https://typecast2.vercel.app) · [Repo](https://github.com/wiktorekdev/typecast)
+
+### [gburn](https://github.com/wiktorekdev/gburn)
+
+Grok Build session burn at public API list prices. Local sessions only. Fullscreen TUI.
+
+```bash
+npx @wiktorekdev/gburn
+```
+
+[![npm](https://img.shields.io/npm/v/@wiktorekdev/gburn?style=flat&color=cb3837&logo=npm)](https://www.npmjs.com/package/@wiktorekdev/gburn)
+[![stars](https://img.shields.io/github/stars/wiktorekdev/gburn?style=flat)](https://github.com/wiktorekdev/gburn)
+[![license](https://img.shields.io/github/license/wiktorekdev/gburn?style=flat)](https://github.com/wiktorekdev/gburn/blob/main/LICENSE)
+
+[npm](https://www.npmjs.com/package/@wiktorekdev/gburn) · [Repo](https://github.com/wiktorekdev/gburn)
 
 ---
 
