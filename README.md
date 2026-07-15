@@ -32,7 +32,7 @@ A PAYDAY 2 SuperBLT mod with ownership-aware warnings, multiplayer risk checks, 
 [![downloads](https://img.shields.io/github/downloads/wiktorekdev/silentunlocker-pd2/total?style=flat&color=22c55e)](https://github.com/wiktorekdev/silentunlocker-pd2/releases)
 [![license](https://img.shields.io/github/license/wiktorekdev/silentunlocker-pd2?style=flat&color=64748b)](https://github.com/wiktorekdev/silentunlocker-pd2/blob/master/LICENSE)
 
-[Download](https://github.com/wiktorekdev/silentunlocker-pd2/releases/latest) &middot; [Source](https://github.com/wiktorekdev/silentunlocker-pd2) &middot; [Changelog](https://github.com/wiktorekdev/silentunlocker-pd2/blob/master/CHANGELOG.md)
+[Download](https://github.com/wiktorekdev/silentunlocker-pd2/releases/latest) &middot; [Changelog](https://github.com/wiktorekdev/silentunlocker-pd2/blob/master/CHANGELOG.md) &middot; [Source](https://github.com/wiktorekdev/silentunlocker-pd2)
 
 ### <img src="https://raw.githubusercontent.com/wiktorekdev/wiktorekdev/main/assets/typecast.svg" width="36" height="36" alt="Typecast logo" align="absmiddle" />&nbsp;[Typecast](https://github.com/wiktorekdev/typecast)
 
@@ -42,7 +42,7 @@ Turn images into binary, ASCII, and character art entirely inside the browser.
 [![stars](https://img.shields.io/github/stars/wiktorekdev/typecast?style=flat&color=22c55e&logo=github)](https://github.com/wiktorekdev/typecast/stargazers)
 [![license](https://img.shields.io/github/license/wiktorekdev/typecast?style=flat&color=64748b)](https://github.com/wiktorekdev/typecast/blob/main/LICENSE)
 
-[Open app](https://typecast2.vercel.app) &middot; [Source](https://github.com/wiktorekdev/typecast)
+[Open app](https://typecast2.vercel.app) &middot; [Issues](https://github.com/wiktorekdev/typecast/issues) &middot; [Source](https://github.com/wiktorekdev/typecast)
 
 ### [gburn](https://github.com/wiktorekdev/gburn)
 
@@ -56,7 +56,7 @@ npx @wiktorekdev/gburn
 [![downloads](https://img.shields.io/npm/dt/@wiktorekdev/gburn?style=flat&color=22c55e&logo=npm)](https://www.npmjs.com/package/@wiktorekdev/gburn)
 [![license](https://img.shields.io/github/license/wiktorekdev/gburn?style=flat&color=64748b)](https://github.com/wiktorekdev/gburn/blob/main/LICENSE)
 
-[npm](https://www.npmjs.com/package/@wiktorekdev/gburn) &middot; [Source](https://github.com/wiktorekdev/gburn)
+[Package](https://www.npmjs.com/package/@wiktorekdev/gburn) &middot; [Issues](https://github.com/wiktorekdev/gburn/issues) &middot; [Source](https://github.com/wiktorekdev/gburn)
 
 ---
 
