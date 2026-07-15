@@ -14,7 +14,7 @@ I build focused desktop tools, browser utilities, CLIs, and game mods that stay 
 
 ## Selected work
 
-### <img src="assets/geohelper.png" width="36" height="36" alt="GeoHelper logo" align="absmiddle" />&nbsp;[GeoHelper](https://github.com/wiktorekdev/geohelper)
+### <img src="https://raw.githubusercontent.com/wiktorekdev/wiktorekdev/main/assets/geohelper.png" width="36" height="36" alt="GeoHelper logo" align="absmiddle" />&nbsp;[GeoHelper](https://github.com/wiktorekdev/geohelper)
 
 A desktop companion for GeoGuessr on Steam. Adds live location context through CDP without injecting code into the game.
 
@@ -24,7 +24,7 @@ A desktop companion for GeoGuessr on Steam. Adds live location context through C
 
 [Website](https://geohelperapp.vercel.app/) &middot; [Download](https://github.com/wiktorekdev/geohelper/releases/latest) &middot; [Source](https://github.com/wiktorekdev/geohelper)
 
-### <img src="assets/silent-dlc-unlocker.png" width="36" height="36" alt="Silent DLC Unlocker logo" align="absmiddle" />&nbsp;[Silent DLC Unlocker](https://github.com/wiktorekdev/silentunlocker-pd2)
+### <img src="https://raw.githubusercontent.com/wiktorekdev/wiktorekdev/main/assets/silent-dlc-unlocker.png" width="36" height="36" alt="Silent DLC Unlocker logo" align="absmiddle" />&nbsp;[Silent DLC Unlocker](https://github.com/wiktorekdev/silentunlocker-pd2)
 
 A PAYDAY 2 SuperBLT mod with ownership-aware warnings, multiplayer risk checks, and configurable safety modes.
 
@@ -34,7 +34,7 @@ A PAYDAY 2 SuperBLT mod with ownership-aware warnings, multiplayer risk checks, 
 
 [Download](https://github.com/wiktorekdev/silentunlocker-pd2/releases/latest) &middot; [Source](https://github.com/wiktorekdev/silentunlocker-pd2) &middot; [Changelog](https://github.com/wiktorekdev/silentunlocker-pd2/blob/master/CHANGELOG.md)
 
-### <img src="assets/typecast.svg" width="36" height="36" alt="Typecast logo" align="absmiddle" />&nbsp;[Typecast](https://github.com/wiktorekdev/typecast)
+### <img src="https://raw.githubusercontent.com/wiktorekdev/wiktorekdev/main/assets/typecast.svg" width="36" height="36" alt="Typecast logo" align="absmiddle" />&nbsp;[Typecast](https://github.com/wiktorekdev/typecast)
 
 Turn images into binary, ASCII, and character art entirely inside the browser.
 
