@@ -20,6 +20,7 @@ A desktop companion for GeoGuessr on Steam. Adds live location context through C
 
 [![release](https://img.shields.io/github/v/release/wiktorekdev/geohelper?style=flat&color=6366f1)](https://github.com/wiktorekdev/geohelper/releases/latest)
 [![downloads](https://img.shields.io/github/downloads/wiktorekdev/geohelper/total?style=flat&color=22c55e)](https://github.com/wiktorekdev/geohelper/releases)
+[![license](https://img.shields.io/github/license/wiktorekdev/geohelper?style=flat&color=64748b)](https://github.com/wiktorekdev/geohelper/blob/main/LICENSE)
 
 [Website](https://geohelperapp.vercel.app/) &middot; [Download](https://github.com/wiktorekdev/geohelper/releases/latest) &middot; [Source](https://github.com/wiktorekdev/geohelper)
 
@@ -29,6 +30,7 @@ A PAYDAY 2 SuperBLT mod with ownership-aware warnings, multiplayer risk checks, 
 
 [![release](https://img.shields.io/github/v/release/wiktorekdev/silentunlocker-pd2?style=flat&color=6366f1)](https://github.com/wiktorekdev/silentunlocker-pd2/releases/latest)
 [![downloads](https://img.shields.io/github/downloads/wiktorekdev/silentunlocker-pd2/total?style=flat&color=22c55e)](https://github.com/wiktorekdev/silentunlocker-pd2/releases)
+[![license](https://img.shields.io/github/license/wiktorekdev/silentunlocker-pd2?style=flat&color=64748b)](https://github.com/wiktorekdev/silentunlocker-pd2/blob/master/LICENSE)
 
 [Download](https://github.com/wiktorekdev/silentunlocker-pd2/releases/latest) &middot; [Source](https://github.com/wiktorekdev/silentunlocker-pd2) &middot; [Changelog](https://github.com/wiktorekdev/silentunlocker-pd2/blob/master/CHANGELOG.md)
 
@@ -36,9 +38,9 @@ A PAYDAY 2 SuperBLT mod with ownership-aware warnings, multiplayer risk checks, 
 
 Turn images into binary, ASCII, and character art entirely inside the browser.
 
-[![live](https://img.shields.io/badge/open-typecast2.vercel.app-111?style=flat&logo=vercel&logoColor=white)](https://typecast2.vercel.app)
-[![GitHub stars](https://img.shields.io/github/stars/wiktorekdev/typecast?style=flat&logo=github)](https://github.com/wiktorekdev/typecast/stargazers)
-[![license](https://img.shields.io/github/license/wiktorekdev/typecast?style=flat)](https://github.com/wiktorekdev/typecast/blob/main/LICENSE)
+[![live](https://img.shields.io/badge/live-online-6366f1?style=flat&logo=vercel&logoColor=white)](https://typecast2.vercel.app)
+[![stars](https://img.shields.io/github/stars/wiktorekdev/typecast?style=flat&color=22c55e&logo=github)](https://github.com/wiktorekdev/typecast/stargazers)
+[![license](https://img.shields.io/github/license/wiktorekdev/typecast?style=flat&color=64748b)](https://github.com/wiktorekdev/typecast/blob/main/LICENSE)
 
 [Open app](https://typecast2.vercel.app) &middot; [Source](https://github.com/wiktorekdev/typecast)
 
@@ -50,8 +52,9 @@ A terminal tool that estimates the public API cost of local Grok Build sessions.
 npx @wiktorekdev/gburn
 ```
 
-[![npm](https://img.shields.io/npm/v/@wiktorekdev/gburn?style=flat&color=cb3837&logo=npm)](https://www.npmjs.com/package/@wiktorekdev/gburn)
-[![npm downloads](https://img.shields.io/npm/dt/@wiktorekdev/gburn?style=flat&color=22c55e&logo=npm)](https://www.npmjs.com/package/@wiktorekdev/gburn)
+[![version](https://img.shields.io/npm/v/@wiktorekdev/gburn?style=flat&color=6366f1&logo=npm)](https://www.npmjs.com/package/@wiktorekdev/gburn)
+[![downloads](https://img.shields.io/npm/dt/@wiktorekdev/gburn?style=flat&color=22c55e&logo=npm)](https://www.npmjs.com/package/@wiktorekdev/gburn)
+[![license](https://img.shields.io/github/license/wiktorekdev/gburn?style=flat&color=64748b)](https://github.com/wiktorekdev/gburn/blob/main/LICENSE)
 
 [npm](https://www.npmjs.com/package/@wiktorekdev/gburn) &middot; [Source](https://github.com/wiktorekdev/gburn)
 
