@@ -4,68 +4,59 @@
 
 # wiktorekdev
 
-**desktop tools · browser apps · local-first · cli**
+I build focused desktop tools, browser utilities, CLIs, and game mods that stay out of the way.
 
-I build small products with a clear job. TypeScript by default, Rust when desktop needs it.
-
-[![follow](https://img.shields.io/github/followers/wiktorekdev?style=flat&logo=github&label=follow)](https://github.com/wiktorekdev)
-[![profile views](https://komarev.com/ghpvc/?username=wiktorekdev&style=flat&label=profile%20views&color=0e75b6)](https://github.com/wiktorekdev)
-[![last commit](https://img.shields.io/github/last-commit/wiktorekdev/geohelper?style=flat&label=last%20commit&color=blueviolet)](https://github.com/wiktorekdev)
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
-[![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white)](https://tauri.app/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Bun](https://img.shields.io/badge/Bun-000?style=flat&logo=bun&logoColor=white)](https://bun.sh/)
-[![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+**TypeScript for interfaces &middot; Rust for native tools and CLIs &middot; Lua when modding games**
 
 </div>
 
 ---
 
-## Projects
+## Selected work
 
-### <img src="assets/geohelper.png" width="36" height="36" alt="" align="absmiddle" />&nbsp;[GeoHelper](https://github.com/wiktorekdev/geohelper)
+### <img src="assets/geohelper.png" width="36" height="36" alt="GeoHelper logo" align="absmiddle" />&nbsp;[GeoHelper](https://github.com/wiktorekdev/geohelper)
 
-Steam GeoGuessr companion. Live coords, place details, map preview, themes, edit mode. CDP, no injection.
+A desktop companion for GeoGuessr on Steam. Adds live location context through CDP without injecting code into the game.
 
 [![release](https://img.shields.io/github/v/release/wiktorekdev/geohelper?style=flat&color=6366f1)](https://github.com/wiktorekdev/geohelper/releases/latest)
 [![downloads](https://img.shields.io/github/downloads/wiktorekdev/geohelper/total?style=flat&color=22c55e)](https://github.com/wiktorekdev/geohelper/releases)
-[![stars](https://img.shields.io/github/stars/wiktorekdev/geohelper?style=flat)](https://github.com/wiktorekdev/geohelper)
-[![license](https://img.shields.io/github/license/wiktorekdev/geohelper?style=flat)](https://github.com/wiktorekdev/geohelper/blob/main/LICENSE)
 
-[Site](https://geohelperapp.vercel.app/) · [Repo](https://github.com/wiktorekdev/geohelper) · [Download](https://github.com/wiktorekdev/geohelper/releases/latest)
+[Website](https://geohelperapp.vercel.app/) &middot; [Download](https://github.com/wiktorekdev/geohelper/releases/latest) &middot; [Source](https://github.com/wiktorekdev/geohelper)
 
-### <img src="assets/typecast.svg" width="36" height="36" alt="" align="absmiddle" />&nbsp;[Typecast](https://github.com/wiktorekdev/typecast)
+### <img src="assets/silent-dlc-unlocker.png" width="36" height="36" alt="Silent DLC Unlocker logo" align="absmiddle" />&nbsp;[Silent DLC Unlocker](https://github.com/wiktorekdev/silentunlocker-pd2)
 
-Image to binary, ASCII, and character art. Zoom stage, color modes, HD-8K export. 100% local browser.
+A PAYDAY 2 SuperBLT mod with ownership-aware warnings, multiplayer risk checks, and configurable safety modes.
 
-[![live](https://img.shields.io/badge/live-typecast2.vercel.app-111?style=flat&logo=vercel&logoColor=white)](https://typecast2.vercel.app)
-[![stars](https://img.shields.io/github/stars/wiktorekdev/typecast?style=flat)](https://github.com/wiktorekdev/typecast)
-[![license](https://img.shields.io/github/license/wiktorekdev/typecast?style=flat)](https://github.com/wiktorekdev/typecast/blob/main/LICENSE)
+[![release](https://img.shields.io/github/v/release/wiktorekdev/silentunlocker-pd2?style=flat&color=6366f1)](https://github.com/wiktorekdev/silentunlocker-pd2/releases/latest)
+[![downloads](https://img.shields.io/github/downloads/wiktorekdev/silentunlocker-pd2/total?style=flat&color=22c55e)](https://github.com/wiktorekdev/silentunlocker-pd2/releases)
 
-[Site](https://typecast2.vercel.app) · [Repo](https://github.com/wiktorekdev/typecast)
+[Download](https://github.com/wiktorekdev/silentunlocker-pd2/releases/latest) &middot; [Source](https://github.com/wiktorekdev/silentunlocker-pd2) &middot; [Changelog](https://github.com/wiktorekdev/silentunlocker-pd2/blob/master/CHANGELOG.md)
+
+### <img src="assets/typecast.svg" width="36" height="36" alt="Typecast logo" align="absmiddle" />&nbsp;[Typecast](https://github.com/wiktorekdev/typecast)
+
+Turn images into binary, ASCII, and character art entirely inside the browser.
+
+[![live](https://img.shields.io/badge/open-typecast2.vercel.app-111?style=flat&logo=vercel&logoColor=white)](https://typecast2.vercel.app)
+
+[Open app](https://typecast2.vercel.app) &middot; [Source](https://github.com/wiktorekdev/typecast)
 
 ### [gburn](https://github.com/wiktorekdev/gburn)
 
-Grok Build session burn at public API list prices. Local sessions only. Fullscreen TUI.
+A terminal tool that estimates the public API cost of local Grok Build sessions.
 
 ```bash
 npx @wiktorekdev/gburn
 ```
 
 [![npm](https://img.shields.io/npm/v/@wiktorekdev/gburn?style=flat&color=cb3837&logo=npm)](https://www.npmjs.com/package/@wiktorekdev/gburn)
-[![stars](https://img.shields.io/github/stars/wiktorekdev/gburn?style=flat)](https://github.com/wiktorekdev/gburn)
-[![license](https://img.shields.io/github/license/wiktorekdev/gburn?style=flat)](https://github.com/wiktorekdev/gburn/blob/main/LICENSE)
 
-[npm](https://www.npmjs.com/package/@wiktorekdev/gburn) · [Repo](https://github.com/wiktorekdev/gburn)
+[npm](https://www.npmjs.com/package/@wiktorekdev/gburn) &middot; [Source](https://github.com/wiktorekdev/gburn)
 
 ---
 
 <div align="center">
 
-local-first when privacy matters · honest about ToS · public when ready
+small tools &middot; clear jobs &middot; local data when privacy matters
 
 [![Ko-fi](https://img.shields.io/badge/buy_me_a_coffee-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/wiktorekdev)
 
