@@ -37,6 +37,8 @@ A PAYDAY 2 SuperBLT mod with ownership-aware warnings, multiplayer risk checks, 
 Turn images into binary, ASCII, and character art entirely inside the browser.
 
 [![live](https://img.shields.io/badge/open-typecast2.vercel.app-111?style=flat&logo=vercel&logoColor=white)](https://typecast2.vercel.app)
+[![GitHub stars](https://img.shields.io/github/stars/wiktorekdev/typecast?style=flat&logo=github)](https://github.com/wiktorekdev/typecast/stargazers)
+[![license](https://img.shields.io/github/license/wiktorekdev/typecast?style=flat)](https://github.com/wiktorekdev/typecast/blob/main/LICENSE)
 
 [Open app](https://typecast2.vercel.app) &middot; [Source](https://github.com/wiktorekdev/typecast)
 
@@ -49,6 +51,7 @@ npx @wiktorekdev/gburn
 ```
 
 [![npm](https://img.shields.io/npm/v/@wiktorekdev/gburn?style=flat&color=cb3837&logo=npm)](https://www.npmjs.com/package/@wiktorekdev/gburn)
+[![npm downloads](https://img.shields.io/npm/dt/@wiktorekdev/gburn?style=flat&color=22c55e&logo=npm)](https://www.npmjs.com/package/@wiktorekdev/gburn)
 
 [npm](https://www.npmjs.com/package/@wiktorekdev/gburn) &middot; [Source](https://github.com/wiktorekdev/gburn)
 
