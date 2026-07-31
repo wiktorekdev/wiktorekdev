@@ -39,20 +39,6 @@ Turn images into binary, ASCII, and character art entirely inside the browser.
 [![stars](https://img.shields.io/github/stars/wiktorekdev/typecast?style=flat&color=22c55e&logo=github)](https://github.com/wiktorekdev/typecast/stargazers)
 [![license](https://img.shields.io/github/license/wiktorekdev/typecast?style=flat&color=64748b)](https://github.com/wiktorekdev/typecast/blob/main/LICENSE)
 
-
-### [gburn](https://github.com/wiktorekdev/gburn)
-
-A terminal tool that estimates the public API cost of Grok Build sessions.
-
-```bash
-npx @wiktorekdev/gburn
-```
-
-[![version](https://img.shields.io/npm/v/@wiktorekdev/gburn?style=flat&color=6366f1&logo=npm)](https://www.npmjs.com/package/@wiktorekdev/gburn)
-[![downloads](https://img.shields.io/npm/dt/@wiktorekdev/gburn?style=flat&color=22c55e&logo=npm)](https://www.npmjs.com/package/@wiktorekdev/gburn)
-[![license](https://img.shields.io/github/license/wiktorekdev/gburn?style=flat&color=64748b)](https://github.com/wiktorekdev/gburn/blob/main/LICENSE)
-
-
 ---
 
 <div align="center">
