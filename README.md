@@ -31,13 +31,13 @@ A PAYDAY 2 SuperBLT mod with ownership-aware warnings, multiplayer risk checks, 
 [![license](https://img.shields.io/github/license/wiktorekdev/silentunlocker-pd2?style=flat&color=64748b)](https://github.com/wiktorekdev/silentunlocker-pd2/blob/master/LICENSE)
 
 
-### <img src="https://raw.githubusercontent.com/wiktorekdev/wiktorekdev/main/assets/typecast.svg" width="36" height="36" alt="Typecast logo" align="absmiddle" />&nbsp;[Typecast](https://github.com/wiktorekdev/typecast)
+### <img src="https://raw.githubusercontent.com/wiktorekdev/wiktorekdev/main/assets/nuviomcp.svg" width="36" height="36" alt="Nuvio MCP logo" align="absmiddle" />&nbsp;[Nuvio MCP](https://github.com/wiktorekdev/nuvio-mcp)
 
-Turn images into binary, ASCII, and character art entirely inside the browser.
+An unofficial MCP server for managing your Nuvio account from AI clients.
 
-[![live](https://img.shields.io/badge/live-online-6366f1?style=flat&logo=vercel&logoColor=white)](https://typecast2.vercel.app)
-[![stars](https://img.shields.io/github/stars/wiktorekdev/typecast?style=flat&color=22c55e&logo=github)](https://github.com/wiktorekdev/typecast/stargazers)
-[![license](https://img.shields.io/github/license/wiktorekdev/typecast?style=flat&color=64748b)](https://github.com/wiktorekdev/typecast/blob/main/LICENSE)
+[![npm](https://img.shields.io/npm/v/nuvio-mcp?style=flat&color=6366f1&logo=npm&logoColor=white)](https://www.npmjs.com/package/nuvio-mcp)
+[![downloads](https://img.shields.io/npm/dm/nuvio-mcp?style=flat&color=22c55e&logo=npm&logoColor=white)](https://www.npmjs.com/package/nuvio-mcp)
+[![license](https://img.shields.io/github/license/wiktorekdev/nuvio-mcp?style=flat&color=64748b)](https://github.com/wiktorekdev/nuvio-mcp/blob/main/LICENSE)
 
 ---
 
