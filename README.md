@@ -31,7 +31,7 @@ A PAYDAY 2 SuperBLT mod with ownership-aware warnings, multiplayer risk checks, 
 [![license](https://img.shields.io/github/license/wiktorekdev/silentunlocker-pd2?style=flat&color=64748b)](https://github.com/wiktorekdev/silentunlocker-pd2/blob/master/LICENSE)
 
 
-### <img src="https://raw.githubusercontent.com/wiktorekdev/wiktorekdev/main/assets/nuviomcp.svg" width="36" height="36" alt="Nuvio MCP logo" align="absmiddle" />&nbsp;[Nuvio MCP](https://github.com/wiktorekdev/nuvio-mcp)
+### <img src="https://raw.githubusercontent.com/wiktorekdev/wiktorekdev/main/assets/nuviomcp-mark.png" width="36" height="36" alt="Nuvio MCP logo" align="absmiddle" />&nbsp;[Nuvio MCP](https://github.com/wiktorekdev/nuvio-mcp)
 
 An unofficial MCP server for managing your Nuvio account from AI clients.
 
