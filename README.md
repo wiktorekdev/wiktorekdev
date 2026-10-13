@@ -24,7 +24,7 @@ A desktop companion for GeoGuessr on Steam. Adds live location context through C
 
 ### <img src="https://raw.githubusercontent.com/wiktorekdev/wiktorekdev/main/assets/silent-dlc-unlocker.png" width="36" height="36" alt="Silent DLC Unlocker logo" align="absmiddle" />&nbsp;[Silent DLC Unlocker](https://github.com/wiktorekdev/silentunlocker-pd2)
 
-A PAYDAY 2 SuperBLT mod with ownership-aware warnings, multiplayer risk checks, and configurable safety modes.
+PAYDAY 2 mod for unlocking DLC with ownership-aware warnings, multiplayer risk checks, and configurable safety modes.
 
 [![release](https://img.shields.io/github/v/release/wiktorekdev/silentunlocker-pd2?style=flat&color=6366f1)](https://github.com/wiktorekdev/silentunlocker-pd2/releases/latest)
 [![downloads](https://img.shields.io/github/downloads/wiktorekdev/silentunlocker-pd2/total?style=flat&color=22c55e)](https://github.com/wiktorekdev/silentunlocker-pd2/releases)
